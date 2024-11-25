@@ -5,13 +5,13 @@ I'm a passionate frontend developer with a knack for creating visually appealing
 
 ## Interests
 - 👀 I’m interested in advancing my skills in frontend development, exploring new technologies, and contributing to exciting projects.
-- 🌱 I’m currently learning advanced JavaScript frameworks and libraries such as React and Vue.js to enhance my development toolkit.
+- 🌱 I’m currently learning advanced typescript  and libraries such as next.js also backedend to enhance my development toolkit.
 
 ## Collaboration
 - 💞️ I’m looking to collaborate on open-source projects, innovative web applications, and any opportunity that allows me to grow as a developer.
 
 ## Contact
-- 📫 How to reach me: You can reach me via [email@example.com](mailto:junaeidahmed979@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com).
+- 📫 How to reach me: You can reach me via [mail](mailto:junaeidahmed979@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com).
 
 ## Fun Facts
 - 😄 Pronouns: He/Him
