@@ -13,13 +13,10 @@
   <a href="https://github.com/Junaeid11">
     <img src="https://img.shields.io/github/followers/Junaeid11?label=Follow&style=social" alt="GitHub Follow">
   </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-%F0%9F%93%A7-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
   <a href="https://www.linkedin.com/in/yourlinkedin">
     <img src="https://img.shields.io/badge/LinkedIn-%20Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://junaeid-portfolio.com">
+  <a href="https://junaeid-portfolio.com](https://eid-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-%F0%9F%91%BC%20Visit-lightgrey?style=flat-square&logo=google-chrome" alt="Portfolio">
   </a>
 </p>
