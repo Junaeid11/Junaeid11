@@ -39,18 +39,20 @@
 <h2 align="center">🔭 Current Focus</h2>
 
 <ul>
-  <li>🔧 Building a meal planning & delivery web app</li>
-  <li>💡 Enhancing UI/UX skills with advanced Tailwind and animations</li>
-  <li>💼 Growing as a full-stack developer with Next.js, MongoDB, and Vite</li>
+  <li>💼 Actively seeking MERN Stack Developer opportunities</li>
+  <li>🔧 Sharpening my skills through real-world projects & portfolio building</li>
+  <li>🧠 Revising core concepts in React, Node.js, MongoDB, and Express</li>
+  <li>📈 Exploring job market trends and tailoring my profile for success</li>
 </ul>
 
 <h2 align="center">🎯 2025 Goals</h2>
 
-<ul >
-  <li>📝 Write technical blogs/tutorials</li>
-  <li>🚀 Launch 2 full-stack passion projects</li>
-  <li>👨‍🏫 Mentor beginners and contribute to open-source</li>
+<ul>
+  <li>🎯 Get hired as a Full-Stack (MERN) Developer</li>
+  <li>🏡 Uplift my family's future with a stable tech career</li>
+  <li>🌱 Keep growing through continuous learning & personal projects</li>
 </ul>
+
 
 ---
 
