@@ -41,7 +41,7 @@
 
 <h2 align="center">🔭 Current Focus</h2>
 
-<ul align="center">
+<ul>
   <li>🔧 Building a meal planning & delivery web app</li>
   <li>💡 Enhancing UI/UX skills with advanced Tailwind and animations</li>
   <li>💼 Growing as a full-stack developer with Next.js, MongoDB, and Vite</li>
@@ -49,7 +49,7 @@
 
 <h2 align="center">🎯 2025 Goals</h2>
 
-<ul align="center">
+<ul >
   <li>📝 Write technical blogs/tutorials</li>
   <li>🚀 Launch 2 full-stack passion projects</li>
   <li>👨‍🏫 Mentor beginners and contribute to open-source</li>
