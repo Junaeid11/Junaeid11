@@ -25,14 +25,14 @@
 
 
 
+
+
 # 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=Junaeid11&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Junaeid11&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-
+![](https://nirzak-streak-stats.vercel.app/?user=junaeid11&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=junaeid11&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Junaeid11&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=junaeid11&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
