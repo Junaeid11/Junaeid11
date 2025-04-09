@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">✨ Hey, I'm Junaeid</h1>
-<h3 align="center">🧑‍💻 Full-Stack Developer | 🌐 JavaScript & React Wizard | 🛠 Passionate Coder</h3>
+<h3 align="center">🧑‍💻 Full-Stack Developer | 🛠 Passionate Coder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Bringing+ideas+to+life+through+code.;Creating+clean+%26+responsive+UI.;Always+learning+and+building+awesome+stuff!" alt="Typing animation">
